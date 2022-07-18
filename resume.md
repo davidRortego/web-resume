@@ -35,6 +35,7 @@ hand -->
 * Worked with a variety of B2B e-commerce document data standards including ASC X12, cXML and RosettaNet.
 * Generated price file reports for customers based on their individual business needs and software requirements.
 * Cut the company's EDI data bill in half by identifying our most active trading partners and coordinating with them to setup a secure and free direct connection to our respective EDI systems.
+* Used SQL frequently to fetch data needed to generate reports, look up information about customers or vendors, alter specific records and other tasks associated with my job.
 
 ## Education & Certification
 
