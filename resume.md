@@ -10,10 +10,12 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
+## Summary
+### <span> </span><span> </span>
 Former EDI Coordinator transitioning into an entry-level Data Analyst role after completing the Google Data Analytics Professional Certificate.  Extensive experience transforming and cleaning e-commerce related data.  Over 8 years of experience managing B2B e-commerce and EDI systems while coordinating directly with both customer and vendor trading partners.
 
 ## Skills
-
+### <span> </span><span> </span>
  - Technical skills like SQL, Excel, Python, Tableau
  - Softened skills like perseverence, curiosity, and opportunity
  - Padding this out a little more
