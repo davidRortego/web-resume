@@ -16,11 +16,12 @@ Former EDI Coordinator transitioning into an entry-level Data Analyst role after
 
 ## Skills
 ### <span> </span><span> </span>
- - Technical skills like SQL, Excel, Python, Tableau
- - Softened skills like perseverence, curiosity, and opportunity
- - Padding this out a little more
- - what's it look like with
- - Five bullet points?
+* SQL (MS SQL Server, PostgreSQL, Google BigQuery)
+* MS Excel (VLOOKUP, pivot tables)
+* Data Transformation (EDI translation mapping)
+* Data Cleaning (EDI transaction monitoring)
+* Python (Pandas, Plotly, Beautiful Soup)
+* R (Tidyverse)
 
 ## Experience
 
