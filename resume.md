@@ -29,8 +29,9 @@ Former EDI Coordinator transitioning into an entry-level Data Analyst role after
 hand -->
 ### <span>E-Commerce Coordinator/Analyst</span> <spam>Elliott Electric Supply | </span> <span>Feb 2014 -- May 2022</span>
 
-* Worked with a variety of B2B e-commerce document data standards including ASC X12, cXML and RosettaNet.
+* Worked daily with a variety of B2B e-commerce document data standards including ASC X12, cXML and RosettaNet.
 * Created EDI document translation maps used to transform both incoming and outgoing business data into both human-readable formats and as input for a diverse variety of ERP systems.
+* Planned and conducted several major bi-yearly EDI server software upgrades including presenting our progress at regular intervals to stakeholders. 
 
 ## Education & Certification
 
