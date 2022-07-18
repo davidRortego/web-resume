@@ -25,11 +25,14 @@ hand -->
 
 This one is supposed to be a summary of your job I think and probably should just be one sentence long.  Maybe two.
 
- - Here's a thing I did
- - Here's another thing I did
- - I am using DA job posting keywords
- - I am using soft skill words to describe things
- - I am going to be getting this job
+*	Extensive experience working with X12 EDI documents including, but not limited to: 850, 855, 856, 810, 811, 820, 867, 844, 845, 849.
+*	Created numerous incoming and outgoing EDI translation maps from specifications provided by our trading partners.
+*	Planned and executed 3 major upgrades to our EDI translator software - IBM Sterling B2B Integrator.
+*	Collaborated with major EDI providers and VANs such as SPS Commerce, TrueCommerce, IDEA4Industry for a variety of projects including, but not limited to, EDI onboarding and AS2 direct connection setup.
+*	Worked with other document standards such of PIDX, xCBL and cXML as well as one-off customer provided specifications.
+*	Integrated our EDI system with supplier networks such as Ariba, Open Invoice, Oracle Supplier Network and others.
+*	Managed over 200 unique trading partnerships and served as the main point of contact for EDI for the company.
+*	Integrated our customer's pricing data with bid software packages such as SupplierXchange, NetPricer, TurboBid and others.
 
 ## Education & Certification
 
