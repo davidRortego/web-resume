@@ -10,8 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Something about transitioning to a new career field.  Data Analyst with a background in B2B e-commerce, including EDI.  
-This is supposed to be up to three sentences long so here is the third sentence to see how it works.
+Something about transitioning to a new career field.  Data Analyst with a background in B2B e-commerce, including EDI.  This is supposed to be up to three sentences long so here is the third sentence to see how it works.
 
 ## Skills
 
@@ -32,7 +31,7 @@ This one is supposed to be a summary of your job I think and probably should jus
  - I am using soft skill words to describe things
  - I am going to be getting this job
 
-## Education & Certifications
+## Education & Certification
 
 ### <span>Lamar State College - Port Arthur, AAS Computer Information Systems</span> <span>2004</span>
 
