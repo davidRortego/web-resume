@@ -10,51 +10,30 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Something about transitioning to a new career field.  Data Analyst with a background in B2B e-commerce, including EDI.  
+This is supposed to be up to three sentences long so here is the third sentence to see how it works.
+
+## Skills
+
+ - Technical skills like SQL, Excel, Python, Tableau
+ - Softened skills like perseverence, curiosity, and opportunity
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### <span>E-Commerce Coordinator/Analyst, Elliott Electric Supply</span> <span>Feb 2014 -- May 2022</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+This one is supposed to be a summary of your job I think and probably should just be one sentence long.  Maybe two.
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+ - Here's a thing I did
+ - Here's another thing I did
+ - I am using DA job posting keywords
+ - I am using soft skill words to describe things
+ - I am going to be getting this job
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+## Education & Certifications
 
-Global movement of free coding clubs for young people.
+### <span>Lamar State College - Port Arthur, AAS Computer Information Systems</span> <span>2004</span>
 
- - Awarded 'Teacher of the Month'
-
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
-
-## Education
-
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
-
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
-
-## Skills
-
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+### <span>Google Data Analytics Certificate</span> <span>2022</span>
