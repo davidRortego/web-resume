@@ -21,7 +21,7 @@ Former EDI Coordinator transitioning into an entry-level Data Analyst role after
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>E-Commerce Coordinator/Analyst, Elliott Electric Supply</span> <span>Feb 2014 -- May 2022</span>
+### <span>E-Commerce Coordinator/Analyst</span> <spam>Elliott Electric Supply | </span> <span>Feb 2014 -- May 2022</span>
 
 This one is supposed to be a summary of your job I think and probably should just be one sentence long.  Maybe two.
 
