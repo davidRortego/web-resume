@@ -10,7 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Something about transitioning to a new career field.  Data Analyst with a background in B2B e-commerce, including EDI.  This is supposed to be up to three sentences long so here is the third sentence to see how it works.
+Former EDI Coordinator transitioning into an entry-level Data Analyst role after completing the Google Data Analytics Professional Certificate.  Extensive experience transforming and cleaning e-commerce related data.  Over 8 years of experience managing B2B e-commerce and EDI systems while coordinating directly with both customer and vendor trading partners.
 
 ## Skills
 
@@ -35,4 +35,4 @@ This one is supposed to be a summary of your job I think and probably should jus
 
 ### <span>Lamar State College - Port Arthur, AAS Computer Information Systems</span> <span>2004</span>
 
-### <span>Google Data Analytics Certificate</span> <span>2022</span>
+### <span>Google Data Analytics Professional Certificate</span> <span>2022</span>
