@@ -5,7 +5,7 @@
 line. It is intended to be used for contact details -->
 - <davidortego@gmail.com>
 - (936) 201-0456
-- [davidrortego.github.io](https://davidrortego.github.io/)
+- [davidRortego.github.io](https://davidrortego.github.io/)
 - Nacogdoches, TX
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
