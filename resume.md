@@ -12,7 +12,7 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 ## Summary
 ### <span> </span><span> </span>
-Former EDI Coordinator transitioning into an entry-level Data Analyst role after completing the Google Data Analytics Professional Certificate.  Extensive experience transforming and cleaning e-commerce related data.  Over 8 years of experience managing B2B e-commerce and EDI systems while coordinating directly with both customer and vendor trading partners.
+Former E-Commerce Coordinator & Analyst transitioning into an entry-level Data Analyst role after completing the Google Data Analytics Professional Certificate.  Extensive experience transforming and cleaning e-commerce related data.  Over 8 years of experience managing B2B e-commerce and EDI systems while coordinating directly with both customer and vendor trading partners.
 
 ## Skills
 ### <span> </span><span> </span>
