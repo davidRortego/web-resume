@@ -32,7 +32,8 @@ hand -->
 * Worked daily with a variety of B2B e-commerce document data standards including ASC X12, cXML and RosettaNet.
 * Created EDI document translation maps used to transform incoming and outgoing business data into both human-readable formats and as input for a diverse variety of ERP systems.
 * Planned and conducted several major bi-yearly EDI server software upgrades including presenting our progress at regular intervals to stakeholders. 
-* Monitored all inbound and outbound EDI traffic to ensure clean data and document standards compliance and corrected deficiencies whenever discovered.
+* Monitored inbound and outbound EDI traffic to ensure clean data and document standards compliance, and corrected deficiencies whenever discovered.
+* Generated price file reports for customers based on their individual business needs and software requirements.
 
 ## Education & Certification
 
