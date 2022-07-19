@@ -30,14 +30,14 @@ hand -->
 ### <span>E-Commerce Coordinator/Analyst</span> <spam>Elliott Electric Supply | </span> <span>Feb 2014 -- May 2022</span>
 
 * Created EDI document translation maps used to transform incoming and outgoing business data into both human-readable formats and as input for a diverse variety of ERP systems.
-* Planned and conducted several major bi-yearly EDI server software upgrades including presenting our progress at regular intervals to stakeholders. 
 * Monitored inbound and outbound EDI traffic to ensure clean data and document standards compliance, and corrected deficiencies whenever discovered.
-* Worked with a variety of B2B e-commerce document data standards, including ASC X12, cXML and RosettaNet.
-* Generated price file reports for customers based on their individual business needs and software requirements.
 * Cut the company's EDI data bill in half by identifying our most active trading partners and coordinating with them to set up a secure and free direct connection to our respective EDI systems.
 * Used SQL frequently to fetch data needed to generate reports, look up information about customers or vendors, alter specific records and other tasks associated with my job.
+*	Integrated our ERP system with supplier networks such as Ariba, Open Invoice, Oracle Supplier Network and others with the goal of automating billing, the handling of incoming orders and other commonly exchanged business documents.
+* Planned and conducted several major bi-yearly EDI server software upgrades including presenting our progress at regular intervals to stakeholders. 
+* Worked with a variety of B2B e-commerce document data standards, including ASC X12, cXML and RosettaNet.
+* Generated price file reports for customers based on their individual business needs and software requirements.
 *	Managed over 250 unique trading partnerships and served as the main EDI and data integration point of contact for the company.
-*	Integrated our ERP system with supplier networks such as Ariba, Open Invoice, Oracle Supplier Network and others with the goal of automating or semi-automating billing and the handling of incoming orders.
 
 ## Education & Certification
 
