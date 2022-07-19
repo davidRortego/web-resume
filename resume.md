@@ -36,6 +36,8 @@ hand -->
 * Generated price file reports for customers based on their individual business needs and software requirements.
 * Cut the company's EDI data bill in half by identifying our most active trading partners and coordinating with them to setup a secure and free direct connection to our respective EDI systems.
 * Used SQL frequently to fetch data needed to generate reports, look up information about customers or vendors, alter specific records and other tasks associated with my job.
+*	Managed over 250 unique trading partnerships and served as the main EDI and data integration point of contact for the company.
+*	Integrated our ERP system with supplier networks such as Ariba, Open Invoice, Oracle Supplier Network and others with the goal of automating or semi-automating billing and the handling of incoming orders.
 
 ## Education & Certification
 
