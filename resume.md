@@ -12,7 +12,7 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 ## Summary
 ### <span> </span><span> </span>
-Former E-Commerce Coordinator & Analyst transitioning into an entry-level Data Analyst role after completing the Google Data Analytics Professional Certificate.  Extensive experience transforming and cleaning e-commerce related data.  Over 8 years of experience managing B2B e-commerce and EDI systems while coordinating directly with both customer and vendor trading partners.
+Former E-Commerce Coordinator & Analyst transitioning into an entry-level Data Analyst role after completing the Google Data Analytics Professional Certificate.  Extensive experience transforming and cleaning e-commerce related data.  Over 8 years of experience managing B2B e-commerce and EDI systems, while coordinating directly with both customer and vendor trading partners.
 
 ## Skills
 ### <span> </span><span> </span>
@@ -32,9 +32,9 @@ hand -->
 * Created EDI document translation maps used to transform incoming and outgoing business data into both human-readable formats and as input for a diverse variety of ERP systems.
 * Planned and conducted several major bi-yearly EDI server software upgrades including presenting our progress at regular intervals to stakeholders. 
 * Monitored inbound and outbound EDI traffic to ensure clean data and document standards compliance, and corrected deficiencies whenever discovered.
-* Worked with a variety of B2B e-commerce document data standards including ASC X12, cXML and RosettaNet.
+* Worked with a variety of B2B e-commerce document data standards, including ASC X12, cXML and RosettaNet.
 * Generated price file reports for customers based on their individual business needs and software requirements.
-* Cut the company's EDI data bill in half by identifying our most active trading partners and coordinating with them to setup a secure and free direct connection to our respective EDI systems.
+* Cut the company's EDI data bill in half by identifying our most active trading partners and coordinating with them to set up a secure and free direct connection to our respective EDI systems.
 * Used SQL frequently to fetch data needed to generate reports, look up information about customers or vendors, alter specific records and other tasks associated with my job.
 *	Managed over 250 unique trading partnerships and served as the main EDI and data integration point of contact for the company.
 *	Integrated our ERP system with supplier networks such as Ariba, Open Invoice, Oracle Supplier Network and others with the goal of automating or semi-automating billing and the handling of incoming orders.
